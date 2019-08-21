@@ -1,0 +1,26 @@
+{
+	"name": "gulp-sactory",
+	"version": "0.1.0",
+	"description": "Transpile Sactory using Gulp",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sactory/gulp-sactory.git"
+	},
+	"author": "Mark White",
+	"license": "MIT",
+	"keywords": [
+		"sactory",
+		"gulpplugin",
+		"gulp",
+		"plugin"
+	],
+	"bugs": {
+		"url": "https://github.com/sactory/gulp-sactory/issues"
+	},
+	"homepage": "https://github.com/sactory/gulp-sactory#readme",
+	"dependencies": {
+		"plugin-error": "^1.0.1",
+		"sactory": "^0.127.0",
+		"through2": "^3.0.1"
+	}
+}
